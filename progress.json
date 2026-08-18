@@ -239,5 +239,14 @@
     "completed_at": 1787035819.263191,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787037159.292812,
+    "completed_at": 1787037163.024936,
+    "comments": [
+      "You still have uncommitted changes. Commit them first on the appropriate branch first!"
+    ],
+    "status": "Incomplete"
   }
 ]
