@@ -239,5 +239,14 @@
     "completed_at": 1787035819.263191,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787037308.128121,
+    "completed_at": 1787037311.793377,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
